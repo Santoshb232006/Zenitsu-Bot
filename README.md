@@ -105,7 +105,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install yarn
 pkg install imagemagick -y
-git clone https://github.com/DGDEEPAK/Zenitsu-Bot
+git clone https://github.com/Santoshb232006/Zenitsu-Bot
 cd Zenitsu-Bot 
 bash install.sh
 node .
